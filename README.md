@@ -1,0 +1,14 @@
+# hotdog-user 10 QKQ1.190716.003 2101212101 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: OnePlus7TPro
+- flavor: hotdog-user
+- release: 10
+- id: QKQ1.190716.003
+- incremental: 2101212101
+- tags: release-keys
+- fingerprint: OnePlus/OnePlus7TPro/OnePlus7TPro:10/QKQ1.190716.003/2101212101:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: hotdog-user-10-QKQ1.190716.003-2101212101-release-keys
+- repo: oneplus_oneplus7tpro_dump
