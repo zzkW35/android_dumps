@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.201022.002 2103161154 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: OnePlus7TPro
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.201022.002
+- incremental: 2103161154
+- tags: release-keys
+- fingerprint: OnePlus/OnePlus7TPro/OnePlus7TPro:11/RKQ1.201022.002/2103161154:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: qssi-user-11-RKQ1.201022.002-2103161154-release-keys
+- repo: oneplus_oneplus7tpro_dump
