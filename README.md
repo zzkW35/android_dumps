@@ -1,0 +1,14 @@
+# OnePlus3-user 9 PKQ1.181203.001 1911042108 release-keys
+- manufacturer: oneplus
+- platform: 
+- codename: OnePlus3T
+- flavor: OnePlus3-user
+- release: 9
+- id: PKQ1.181203.001
+- incremental: 1911042108
+- tags: release-keys
+- fingerprint: OnePlus/OnePlus3/OnePlus3T:9/PKQ1.181203.001/1911042108:user/release-keys
+- is_ab: false
+- brand: OnePlus
+- branch: oneplus3-OOS-9.0.6
+- repo: oneplus_oneplus3t_dump
